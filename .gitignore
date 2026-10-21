@@ -1,0 +1,27 @@
+# Environment & secrets
+.env
+credentials/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+dist/
+build/
+
+# Node
+node_modules/
+frontend/dist/
+
+# Docker volumes
+postgres_data/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+**/.DS_Store
+
+# Claude Code
+.claude/

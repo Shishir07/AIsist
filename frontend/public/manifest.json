@@ -1,0 +1,10 @@
+{
+  "name": "AIsist4U",
+  "short_name": "AIsist4U",
+  "description": "Your AI Voice Personal Assistant",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080818",
+  "theme_color": "#8b5cf6",
+  "icons": []
+}
